@@ -123,5 +123,5 @@ I am a Computer Engineering student at the University of Shahrekord, with a pass
 ----------------
 
 * LinkedIn: [linkedin.com/in/shadmehr-bakhtiarijouneghani](https://www.linkedin.com/in/shadmehr-bakhtiarijouneghani)
-* GitHub: [github.com/shadmehr-bakhtiarijouneghani](https://github.com/shadmehr-bakhtiarijouneghani)
-* Gmail: [shadmehr.bakhtiarijouneghani@gmail.com](mailto:shadmehr.bakhtiarijouneghani@gmail.com)
+* GitHub: [[github.com/shadmehr-bakhtiarijouneghani](https://github.com/ShadmehrBakhtiary)](https://github.com/shadmehr-bakhtiarijouneghani)
+* Gmail: [bakhtiar.shadmehr@gmail.com](mailto:bakhtiar.shadmehr@gmail.com)
