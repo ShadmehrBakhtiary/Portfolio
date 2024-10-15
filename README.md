@@ -44,7 +44,7 @@ I am a Computer Engineering student at the University of Shahrekord, with a pass
 
 * Teamwork
 * Time management
-* Problem solving
+* Problem-solving
 * Teaching
 
 ## Projects
@@ -56,7 +56,7 @@ I am a Computer Engineering student at the University of Shahrekord, with a pass
 
 ### 2. Sentiment Analysis for Amazon Comments
 
-* Classified comments into positive, negative sentiments using machine learning and deep learning methods such as Logistic Regression, CART, XGBoost, Naive Bayes, SVM, CNN, RNN, LSTM, ANN.
+* Classified comments into positive and negative sentiments using machine learning and deep learning methods such as Logistic Regression, CART, XGBoost, Naive Bayes, SVM, CNN, RNN, LSTM, ANN.
 
 ### 3. GUI Maze Game with online DFS Algorithm
 
@@ -64,7 +64,7 @@ I am a Computer Engineering student at the University of Shahrekord, with a pass
 
 ### 4. LSTM Text Generation Model
 
-* Developed a Long Short-Term Memory (LSTM) model using PyTorch for generating text in the style of novels.
+* Developed a Long Short-Term Memory (LSTM) model using PyTorch to generate text in the style of novels.
 
 ### 5. FFT-Based Image Down-Sampling
 
@@ -95,7 +95,6 @@ I am a Computer Engineering student at the University of Shahrekord, with a pass
 --------------------
 
 * Recipient of a full tuition waiver scholarship (University of Shahrekord, 2020-2025)
-* Scored in the top 2.15% (4300/200,000) of students in the university entrance exam
 
 ## Certificates and Courses
 ---------------------------
