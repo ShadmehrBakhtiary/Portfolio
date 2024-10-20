@@ -24,6 +24,7 @@ I am a Computer Engineering student at the University of Shahrekord, with a pass
 * AI in Medicine
 * Optimization
 * Human-Computer Interaction (HCI)
+* Robotics
 
 ## Skills
 ----------
@@ -102,6 +103,8 @@ I am a Computer Engineering student at the University of Shahrekord, with a pass
 * Machine Learning Specialization (DeepLearning.AI)
 * Advanced Computer Vision with TensorFlow (DeepLearning.AI)
 * MATLAB on Ramp
+* ETHx AMRx Autonomous Robots(edx)
+Programming for Robotics (ROS) (Robotic Systems Lab: Legged Robotics at ETH ZürichYouTube)
 * Generative AI with Large Language Models (DeepLearning.AI)
 * Introduction to Networking and Cloud Computing (Microsoft)
 * C++ Tutorial for Beginners - Full Course (Free code camp)
