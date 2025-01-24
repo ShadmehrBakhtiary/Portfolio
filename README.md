@@ -11,8 +11,7 @@ I am a Computer Engineering student at the University of Shahrekord, with a pass
 
 ### University of Shahrekord
 
-* B.Sc. in Computer Engineering (Expected Graduation Date: April 2025)
-* Last 60 credit cumulative GPA: 15.2/20
+* B.Sc. in Computer Engineering 
 
 ## Research Interests
 ----------------------
@@ -119,7 +118,6 @@ Programming for Robotics (ROS) (Robotic Systems Lab: Legged Robotics at ETH Zür
 ------------
 
 * IELTS: 7.5 (Reading), 7.5 (Listening), 7.0 (Speaking), 6.5 (Writing), 7.0 (Overall)
-* GRE: booked for 28th of November
 
 ## Social Media
 ----------------
